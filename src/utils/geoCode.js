@@ -19,6 +19,4 @@ const geoCode = (address, callback) => {
     });    
 }
 
-
-
 module.exports = geoCode;
